@@ -1,6 +1,6 @@
 {
   "name": "xazure-module-theme",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides a basic theme rendering system for Xazure framework.",
   "main": "dist",
   "scripts": {
